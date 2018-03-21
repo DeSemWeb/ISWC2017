@@ -4,6 +4,8 @@ order: 0
 ---
 # A workshop that focuses on _clients_
 
+DeSemWeb will be back at ISWC2018. Visit us at [DeSemWeb2018](http://iswc2018.desemweb.org/)!
+
 If you are looking for Semantic Web Technologies for the Internet of Things,
 visit the [SWIT2017 website](https://swit2017.github.io/).
 
